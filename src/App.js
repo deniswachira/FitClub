@@ -1,8 +1,9 @@
 import './App.css';
+import Hero from './components/Hero';
 function App() {
   return (
     <div className="App">
-          <span style={{color: 'white'}}>Subscribe Denis Wachira</span>
+          <Hero />
     </div>
   );
 }
