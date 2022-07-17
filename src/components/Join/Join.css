@@ -39,3 +39,13 @@
 .btn-j{
     background-color: var(--orange);
 }
+@media screen and (max-width: 768px){
+   .Join{
+    flex-direction: column;
+    gap: 1rem;
+   }
+   .left-j{
+    font-size: x-large;
+    flex-direction: column;
+   } 
+}
