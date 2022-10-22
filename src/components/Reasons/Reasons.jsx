@@ -15,10 +15,10 @@ const Reasons = () => {
   return (
     <div className="Reasons" id="reasons">
        <div className="left-r">
-        <img src={image1} alt="" /> 
-        <img src={image2} alt="" />
-        <img src={image3} alt="" />
-        <img src={image4} alt="" />
+        <img src={image1} alt="image 1" /> 
+        <img src={image2} alt="image 2" />
+        <img src={image3} alt="image 3" />
+        <img src={image4} alt="image 4" />
        </div> 
        <div className="right-r">
         <span>some reasons</span>
