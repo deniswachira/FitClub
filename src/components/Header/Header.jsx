@@ -45,7 +45,7 @@ function Header() {
                to='reasons'
                span={true}
                smooth={true}
-              >Why Us</Link>
+              >Why us </Link>
             </li>
             <li>
               <Link
@@ -53,7 +53,7 @@ function Header() {
                to='plans'
                span={true}
                smooth={true}
-              >Plans</Link>
+              >Planning</Link>
             </li>
             <li>
               <Link
